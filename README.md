@@ -1,8 +1,6 @@
 # PLMCP
 
-This repository contains the source code for the tutorial "Build an MCP Server in Python" published on Medium. The project demonstrates how to build an MCP server using Python to provide live Premier League football data.
-
-## 📖 Tutorial
+This repository contains the source code for a tutorial published on Medium. The project demonstrates how to build an MCP server using Python to provide live Premier League football data to an LLM.
 
 For a detailed explanation of how this project works, check out the full tutorial on Medium: [Build an MCP Server in Python](https://medium.com/@jimohtobi/build-an-mcp-server-in-5-minutes-686b632303ed)
 
